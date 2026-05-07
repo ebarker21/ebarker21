@@ -12,3 +12,5 @@ I'm currently working on my personal website portfolio (ebarker.dev). I plan to 
 You can reach me at ericbarker21@gmail.com
 
 I use arch btw
+
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,nextjs)](https://skillicons.dev)
