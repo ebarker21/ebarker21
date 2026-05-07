@@ -15,4 +15,4 @@ I use arch btw
 
 **SKILLS:**
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,nextjs,php,c++,linux,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,nextjs,php,cpp,linux,arch)](https://skillicons.dev)
