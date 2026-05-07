@@ -13,4 +13,6 @@ You can reach me at ericbarker21@gmail.com
 
 I use arch btw
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,nextjs)](https://skillicons.dev)
+**SKILLS:**
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,nextjs,php,c++,linux,arch)](https://skillicons.dev)
