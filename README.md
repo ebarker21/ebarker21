@@ -1,4 +1,6 @@
-Howdy!
+![](plingplingplong.jpeg)
+
+<h1 align="center">Howdy!</h1>
 
 This is where I store the stuff I'm working on (***along with the other 150 million users here***). When I'm not working at my job, one of my projects, or configuring my Arch Linux install, I like to work through my backlog of games.
 
